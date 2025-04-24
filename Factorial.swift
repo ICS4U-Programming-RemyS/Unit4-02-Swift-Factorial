@@ -79,7 +79,7 @@ do {
                 // Append the result to the output string
                 outputStr += "\(currentInt)! = \(factorial)\n"
             }
-        }   
+        }
         // Increment the position
         position += 1
     }
